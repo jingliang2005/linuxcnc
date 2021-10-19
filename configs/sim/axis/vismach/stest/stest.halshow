@@ -1,0 +1,5 @@
+pin+motion.switchkins-type
+pin+kinstype.is-0
+pin+kinstype.is-1
+pin+ini.x.max_velocity
+pin+ini.c.max_velocity
